@@ -27,7 +27,7 @@ body {
   display: block;
 }
 
-header{
+.header{
   text-align: center;
   font-weight: 600;
   font-size: 2em;
