@@ -48,3 +48,9 @@ h4{
 	background-color: #4f5357;
 	transition-duration: 0.5s;
 }
+
+@media (min-width: 768px) {
+  .navbar-toggler {
+    display: none;
+  }
+}
