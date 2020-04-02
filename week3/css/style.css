@@ -38,3 +38,13 @@ h4{
   background-color: rgb(189, 180, 180);
   padding: 30px;
 }
+
+.nav-link{
+	background-color: #3e3f3f;
+	border: 1px solid #343a40;
+}
+
+.nav-link:hover{
+	background-color: #4f5357;
+	transition-duration: 0.5s;
+}
